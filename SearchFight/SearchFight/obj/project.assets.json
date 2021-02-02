@@ -959,11 +959,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADM\\source\\repos\\SearchFight\\SearchFight\\SearchFight.csproj",
+      "projectUniqueName": "C:\\Users\\ADM\\Documents\\GitHub\\SearchFight\\SearchFight\\SearchFight\\SearchFight.csproj",
       "projectName": "SearchFight",
-      "projectPath": "C:\\Users\\ADM\\source\\repos\\SearchFight\\SearchFight\\SearchFight.csproj",
+      "projectPath": "C:\\Users\\ADM\\Documents\\GitHub\\SearchFight\\SearchFight\\SearchFight\\SearchFight.csproj",
       "packagesPath": "C:\\Users\\ADM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADM\\source\\repos\\SearchFight\\SearchFight\\obj\\",
+      "outputPath": "C:\\Users\\ADM\\Documents\\GitHub\\SearchFight\\SearchFight\\SearchFight\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -982,11 +982,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\ADM\\source\\repos\\SearchFight\\BE\\BE.csproj": {
-              "projectPath": "C:\\Users\\ADM\\source\\repos\\SearchFight\\BE\\BE.csproj"
+            "C:\\Users\\ADM\\Documents\\GitHub\\SearchFight\\SearchFight\\BE\\BE.csproj": {
+              "projectPath": "C:\\Users\\ADM\\Documents\\GitHub\\SearchFight\\SearchFight\\BE\\BE.csproj"
             },
-            "C:\\Users\\ADM\\source\\repos\\SearchFight\\ClientCall\\ClientCall.csproj": {
-              "projectPath": "C:\\Users\\ADM\\source\\repos\\SearchFight\\ClientCall\\ClientCall.csproj"
+            "C:\\Users\\ADM\\Documents\\GitHub\\SearchFight\\SearchFight\\ClientCall\\ClientCall.csproj": {
+              "projectPath": "C:\\Users\\ADM\\Documents\\GitHub\\SearchFight\\SearchFight\\ClientCall\\ClientCall.csproj"
             }
           }
         }

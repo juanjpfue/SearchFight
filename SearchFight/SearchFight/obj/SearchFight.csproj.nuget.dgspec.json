@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADM\\source\\repos\\SearchFight\\SearchFight\\SearchFight.csproj": {}
+    "C:\\Users\\ADM\\Documents\\GitHub\\SearchFight\\SearchFight\\SearchFight\\SearchFight.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADM\\source\\repos\\SearchFight\\BE\\BE.csproj": {
+    "C:\\Users\\ADM\\Documents\\GitHub\\SearchFight\\SearchFight\\BE\\BE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADM\\source\\repos\\SearchFight\\BE\\BE.csproj",
+        "projectUniqueName": "C:\\Users\\ADM\\Documents\\GitHub\\SearchFight\\SearchFight\\BE\\BE.csproj",
         "projectName": "BE",
-        "projectPath": "C:\\Users\\ADM\\source\\repos\\SearchFight\\BE\\BE.csproj",
+        "projectPath": "C:\\Users\\ADM\\Documents\\GitHub\\SearchFight\\SearchFight\\BE\\BE.csproj",
         "packagesPath": "C:\\Users\\ADM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADM\\source\\repos\\SearchFight\\BE\\obj\\",
+        "outputPath": "C:\\Users\\ADM\\Documents\\GitHub\\SearchFight\\SearchFight\\BE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\ADM\\source\\repos\\SearchFight\\ClientCall\\ClientCall.csproj": {
+    "C:\\Users\\ADM\\Documents\\GitHub\\SearchFight\\SearchFight\\ClientCall\\ClientCall.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADM\\source\\repos\\SearchFight\\ClientCall\\ClientCall.csproj",
+        "projectUniqueName": "C:\\Users\\ADM\\Documents\\GitHub\\SearchFight\\SearchFight\\ClientCall\\ClientCall.csproj",
         "projectName": "ClientCall",
-        "projectPath": "C:\\Users\\ADM\\source\\repos\\SearchFight\\ClientCall\\ClientCall.csproj",
+        "projectPath": "C:\\Users\\ADM\\Documents\\GitHub\\SearchFight\\SearchFight\\ClientCall\\ClientCall.csproj",
         "packagesPath": "C:\\Users\\ADM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADM\\source\\repos\\SearchFight\\ClientCall\\obj\\",
+        "outputPath": "C:\\Users\\ADM\\Documents\\GitHub\\SearchFight\\SearchFight\\ClientCall\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -114,14 +114,14 @@
         }
       }
     },
-    "C:\\Users\\ADM\\source\\repos\\SearchFight\\SearchFight\\SearchFight.csproj": {
+    "C:\\Users\\ADM\\Documents\\GitHub\\SearchFight\\SearchFight\\SearchFight\\SearchFight.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADM\\source\\repos\\SearchFight\\SearchFight\\SearchFight.csproj",
+        "projectUniqueName": "C:\\Users\\ADM\\Documents\\GitHub\\SearchFight\\SearchFight\\SearchFight\\SearchFight.csproj",
         "projectName": "SearchFight",
-        "projectPath": "C:\\Users\\ADM\\source\\repos\\SearchFight\\SearchFight\\SearchFight.csproj",
+        "projectPath": "C:\\Users\\ADM\\Documents\\GitHub\\SearchFight\\SearchFight\\SearchFight\\SearchFight.csproj",
         "packagesPath": "C:\\Users\\ADM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADM\\source\\repos\\SearchFight\\SearchFight\\obj\\",
+        "outputPath": "C:\\Users\\ADM\\Documents\\GitHub\\SearchFight\\SearchFight\\SearchFight\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -140,11 +140,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\ADM\\source\\repos\\SearchFight\\BE\\BE.csproj": {
-                "projectPath": "C:\\Users\\ADM\\source\\repos\\SearchFight\\BE\\BE.csproj"
+              "C:\\Users\\ADM\\Documents\\GitHub\\SearchFight\\SearchFight\\BE\\BE.csproj": {
+                "projectPath": "C:\\Users\\ADM\\Documents\\GitHub\\SearchFight\\SearchFight\\BE\\BE.csproj"
               },
-              "C:\\Users\\ADM\\source\\repos\\SearchFight\\ClientCall\\ClientCall.csproj": {
-                "projectPath": "C:\\Users\\ADM\\source\\repos\\SearchFight\\ClientCall\\ClientCall.csproj"
+              "C:\\Users\\ADM\\Documents\\GitHub\\SearchFight\\SearchFight\\ClientCall\\ClientCall.csproj": {
+                "projectPath": "C:\\Users\\ADM\\Documents\\GitHub\\SearchFight\\SearchFight\\ClientCall\\ClientCall.csproj"
               }
             }
           }

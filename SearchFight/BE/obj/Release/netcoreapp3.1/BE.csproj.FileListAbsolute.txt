@@ -7,3 +7,12 @@ C:\Users\ADM\source\repos\SearchFight\BE\obj\Release\netcoreapp3.1\BE.AssemblyIn
 C:\Users\ADM\source\repos\SearchFight\BE\obj\Release\netcoreapp3.1\BE.AssemblyInfo.cs
 C:\Users\ADM\source\repos\SearchFight\BE\obj\Release\netcoreapp3.1\BE.dll
 C:\Users\ADM\source\repos\SearchFight\BE\obj\Release\netcoreapp3.1\BE.pdb
+C:\Users\ADM\Documents\GitHub\SearchFight\SearchFight\BE\bin\Release\netcoreapp3.1\BE.deps.json
+C:\Users\ADM\Documents\GitHub\SearchFight\SearchFight\BE\bin\Release\netcoreapp3.1\BE.dll
+C:\Users\ADM\Documents\GitHub\SearchFight\SearchFight\BE\bin\Release\netcoreapp3.1\BE.pdb
+C:\Users\ADM\Documents\GitHub\SearchFight\SearchFight\BE\obj\Release\netcoreapp3.1\BE.csprojAssemblyReference.cache
+C:\Users\ADM\Documents\GitHub\SearchFight\SearchFight\BE\obj\Release\netcoreapp3.1\BE.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Documents\GitHub\SearchFight\SearchFight\BE\obj\Release\netcoreapp3.1\BE.AssemblyInfoInputs.cache
+C:\Users\ADM\Documents\GitHub\SearchFight\SearchFight\BE\obj\Release\netcoreapp3.1\BE.AssemblyInfo.cs
+C:\Users\ADM\Documents\GitHub\SearchFight\SearchFight\BE\obj\Release\netcoreapp3.1\BE.dll
+C:\Users\ADM\Documents\GitHub\SearchFight\SearchFight\BE\obj\Release\netcoreapp3.1\BE.pdb

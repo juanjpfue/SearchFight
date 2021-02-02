@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADM\\source\\repos\\SearchFight\\ClientCall\\ClientCall.csproj": {}
+    "C:\\Users\\ADM\\Documents\\GitHub\\SearchFight\\SearchFight\\ClientCall\\ClientCall.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADM\\source\\repos\\SearchFight\\ClientCall\\ClientCall.csproj": {
+    "C:\\Users\\ADM\\Documents\\GitHub\\SearchFight\\SearchFight\\ClientCall\\ClientCall.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADM\\source\\repos\\SearchFight\\ClientCall\\ClientCall.csproj",
+        "projectUniqueName": "C:\\Users\\ADM\\Documents\\GitHub\\SearchFight\\SearchFight\\ClientCall\\ClientCall.csproj",
         "projectName": "ClientCall",
-        "projectPath": "C:\\Users\\ADM\\source\\repos\\SearchFight\\ClientCall\\ClientCall.csproj",
+        "projectPath": "C:\\Users\\ADM\\Documents\\GitHub\\SearchFight\\SearchFight\\ClientCall\\ClientCall.csproj",
         "packagesPath": "C:\\Users\\ADM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADM\\source\\repos\\SearchFight\\ClientCall\\obj\\",
+        "outputPath": "C:\\Users\\ADM\\Documents\\GitHub\\SearchFight\\SearchFight\\ClientCall\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -7,3 +7,12 @@ C:\Users\ADM\source\repos\SearchFight\ClientCall\obj\Release\netcoreapp3.1\Clien
 C:\Users\ADM\source\repos\SearchFight\ClientCall\obj\Release\netcoreapp3.1\ClientCall.AssemblyInfo.cs
 C:\Users\ADM\source\repos\SearchFight\ClientCall\obj\Release\netcoreapp3.1\ClientCall.dll
 C:\Users\ADM\source\repos\SearchFight\ClientCall\obj\Release\netcoreapp3.1\ClientCall.pdb
+C:\Users\ADM\Documents\GitHub\SearchFight\SearchFight\ClientCall\bin\Release\netcoreapp3.1\ClientCall.deps.json
+C:\Users\ADM\Documents\GitHub\SearchFight\SearchFight\ClientCall\bin\Release\netcoreapp3.1\ClientCall.dll
+C:\Users\ADM\Documents\GitHub\SearchFight\SearchFight\ClientCall\bin\Release\netcoreapp3.1\ClientCall.pdb
+C:\Users\ADM\Documents\GitHub\SearchFight\SearchFight\ClientCall\obj\Release\netcoreapp3.1\ClientCall.csprojAssemblyReference.cache
+C:\Users\ADM\Documents\GitHub\SearchFight\SearchFight\ClientCall\obj\Release\netcoreapp3.1\ClientCall.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Documents\GitHub\SearchFight\SearchFight\ClientCall\obj\Release\netcoreapp3.1\ClientCall.AssemblyInfoInputs.cache
+C:\Users\ADM\Documents\GitHub\SearchFight\SearchFight\ClientCall\obj\Release\netcoreapp3.1\ClientCall.AssemblyInfo.cs
+C:\Users\ADM\Documents\GitHub\SearchFight\SearchFight\ClientCall\obj\Release\netcoreapp3.1\ClientCall.dll
+C:\Users\ADM\Documents\GitHub\SearchFight\SearchFight\ClientCall\obj\Release\netcoreapp3.1\ClientCall.pdb

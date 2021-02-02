@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADM\\source\\repos\\SearchFight\\BE\\BE.csproj",
+      "projectUniqueName": "C:\\Users\\ADM\\Documents\\GitHub\\SearchFight\\SearchFight\\BE\\BE.csproj",
       "projectName": "BE",
-      "projectPath": "C:\\Users\\ADM\\source\\repos\\SearchFight\\BE\\BE.csproj",
+      "projectPath": "C:\\Users\\ADM\\Documents\\GitHub\\SearchFight\\SearchFight\\BE\\BE.csproj",
       "packagesPath": "C:\\Users\\ADM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADM\\source\\repos\\SearchFight\\BE\\obj\\",
+      "outputPath": "C:\\Users\\ADM\\Documents\\GitHub\\SearchFight\\SearchFight\\BE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
